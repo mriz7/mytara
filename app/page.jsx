@@ -28,21 +28,21 @@ export default function ValentineProposal() {
     { 
       id: 1, 
       image: "/memories/first-meet.jpeg", 
-      date: "The Day We Met", 
-      caption: "I knew from that moment my life would never be the same...", 
+      date: "Meri Jaan", 
+      caption: "I knew from the first moment that my life would never be the same...", 
       fullStory: "Remember how nervous we both were? I couldn't stop smiling for days after." 
     },
     { 
       id: 2, 
       image: "/memories/first-date.jpeg",
-      date: "Our First Date", 
-      caption: "Moments turned into memories and walking along with you...", 
+      date: "Meri Duniyaa!!", 
+      caption: "Our Moments turned into memories and walking along with you...", 
       fullStory: "We talked until the moon shined bright. I never wanted that night to end" 
     },
     { 
       id: 3, 
       image: "/memories/adventure.jpeg",
-      date: "Our First Adventure", 
+      date: "Meri Har Subah Tumhare Saath", 
       caption: "Every adventure is better with you by my side", 
       fullStory: "Getting lost in the bliss with each other was the best thing that happened to us that day." 
     },
@@ -51,12 +51,12 @@ export default function ValentineProposal() {
       image: "/memories/cozy.jpeg",
       date: "Cozy Moments", 
       caption: "My favorite place is next to you", 
-      fullStory: "Rainy days became my favorite because I got to spend them with you." 
+      fullStory: "Because I got to spend them with you." 
     },
     { 
       id: 5, 
       image: "/memories/celebration.jpeg",
-      date: "Celebrating Us", 
+      date: "Meri Zindagi Tumhare Bina Adhuri Hai", 
       caption: "Every moment with you is worth celebrating", 
       fullStory: "You make ordinary days feel extraordinary. Let's explore the world more together" 
     },
@@ -64,7 +64,7 @@ export default function ValentineProposal() {
     { 
       id: 6, 
       image: "/memories/silly.jpeg",  // <--- Name your photo 'funny.jpg'
-      date: "Our Silly Side", 
+      date: "Meri Har Khushi Tumse Hai", 
       caption: "Laughing until our stomachs hurt", 
       fullStory: "I love that we can be our complete selves around each other." 
     },
